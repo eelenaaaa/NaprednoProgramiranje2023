@@ -1,0 +1,12 @@
+1. Koj od nabrojanite e vlezen ured?				a.Monitor b.Zvuchnik c.Tastatura
+2. Procesorot e isto taka narechen:				a.Mozokot na kompjuterot b.Matematicharot c.Glavniot
+3. Za shto se koristi Corel Draw?				a.Formatiranje na tabeli b.Pishuvanje na dokument c.crtanje
+4. Vo koja godina beshe sozdaden Microsoft Word?		a.1983 b.1999 c.2001
+5. 0111 e binaren broj na dekadniot broj:			a.4 b.7 c.3 d.5
+6. Naredbite FOR, WHILE, DO vo C++ se narecheni:		a.Jamki b.Naredbi za granenje c.Funkcii d.Nizi
+7. Koe od slednive tvrdenja e vistina?				a.B>KB b.B<b c.GB>MB d.TB<GB
+8. Koi broevi gi sodrzhi oktalniot broen sistem?		a.od 0 do 9 b.od 1 do 8 c.od 0 do 8 d.od 0 do 7
+9. Koi se hiperbolichki funkcii? (dva tochni odgovori)		a.sin(x)  b.sh(x)  c.Arsh(x) d.tan(x) e.ch(x)
+10. Koi od slednive se logichki porti? (dva tochni odgovori)	a.AND  b.IF c.SWITCH d.OR e.ELSE
+11. Koi se binarni broevi? (dva tochni odgovori)		a.0 b.1 c.2 d.4 e.3
+12. Shto spagja vo hardver? (dva tochni odgovori)		a.Google b.Kamera c.Excel d.Procesor e.Word

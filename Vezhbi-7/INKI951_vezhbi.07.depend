@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682250950 source:c:\users\com\desktop\inki951_vezhbi.07\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+
